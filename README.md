@@ -1,4 +1,4 @@
-# Pizza Sales Analysis Dashboard
+# Pizza Sales Analysis Dashboard SQL | POWER BI
 
 A dynamic and interactive Power BI dashboard built using SQL and Power BI to analyze pizza sales performance, identify business trends, and generate actionable insights for data-driven decision making.
 
