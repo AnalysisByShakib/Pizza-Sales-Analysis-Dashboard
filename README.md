@@ -48,12 +48,11 @@ The dataset used in this project was sourced from a publicly available YouTube t
 - Funnel chart total pizza sold by pizza category
 - Bar charts top & bottom pizza by revenue, quantity and orders
   
-## Screenshots
-Include screenshots or export images of key dashboard pages in the `images/` or `screenshots/` folder and reference them here.
-
-
 ## Business Impact
 - This dashboard transforms raw data into actionable business insights. It enables management to monitor sales performance, identify customer preference, optimize inventory, improve staffing decision and target marketing campaign using those insight the management can increase revenue, reduce optional costs and make faster data driven decision.
+
+## Screenshots
+Include screenshots or export images of key dashboard pages in the `images/` or `screenshots/` folder and reference them here.
 
 
 
