@@ -52,7 +52,8 @@ The dataset used in this project was sourced from a publicly available YouTube t
 - This dashboard transforms raw data into actionable business insights. It enables management to monitor sales performance, identify customer preference, optimize inventory, improve staffing decision and target marketing campaign using those insight the management can increase revenue, reduce optional costs and make faster data driven decision.
 
 ## Screenshots
-Include screenshots or export images of key dashboard pages in the `images/` or `screenshots/` folder and reference them here.
+https://github.com/AnalysisByShakib/Pizza-Sales-Analysis-Dashboard/commit/40a9cfb0a768d7552afd7549b5d147467b87154c
+
 
 
 
