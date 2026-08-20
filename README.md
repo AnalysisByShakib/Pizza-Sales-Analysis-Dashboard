@@ -16,8 +16,8 @@ This project provides a single-pane view of pizza sales across stores, dates, pr
 The dashboard is intended for operations managers, marketing teams, and data analysts.
 
 ## Key Features & Insights
-- High-level KPIs: Total Revenue(817.86K), Total Orders(21K),Total Pizza Sold(50k) Average Order Value (38.31),Average Pizza Price (16.49)
-  these cards provide quick overview of business to understand how the business is performing without looking through thousands of transection.
+- High-level KPIs: Total Revenue(817.86K), Total Orders(21K),Total Pizza Sold(50k) Average Order Value (38.31),Average Pizza Price (16.49).
+  These cards provide quick overview of business to understand how the business is performing without looking through thousands of transection.
 - Sales by revenue: Large size veggie pizza generates the highest revenue(375.32K) and the average pizza price is (16.49) , xx large size pizza generates the lowest revenue(1.01K) and the average pizza price is (35.95) 
 - Top products: Bestselling pizza is (The Thai Chicken Pizza), and the worst selling pizza is (The Brie Carre Pizza)
 - Busiest Days :  Orders are highest on weekends ( Friday & Saturday)
