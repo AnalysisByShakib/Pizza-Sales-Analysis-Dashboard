@@ -32,7 +32,7 @@ The dashboard is intended for operations managers, marketing teams, and data ana
 - 📈 Data Visualization & Business Intelligence
 
 ## Data Source & Schema
-the pizza sales csv dataset used in the dashboard contain these columns:
+The pizza sales csv dataset used in the dashboard contain these columns:
 
 - orders (order_id, order_date, order_time)
 - products (product_id, product_name, product_category, product-size, product_quantity, product_ingredients, total_price, unit_price)
