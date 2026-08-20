@@ -36,9 +36,9 @@ The dashboard is intended for operations managers, marketing teams, and data ana
 the pizza sales csv dataset used in the dashboard contain these columns:
 
 - orders (order_id, order_date, order_time)
-- products (product_id, product_name, product_category, product-size,product_quantity, total_price, unit_price)
+- products (product_id, product_name, product_category, product-size, product_quantity, product_ingredients, total_price, unit_price)
 
-Data can be read from CSVs, spreadsheets
+Data can be read from CSVs, spreadsheets.
 
 ## Recommended Analyses & Visuals
 - KPI cards for revenue, orders, pizza sold, pizza price
