@@ -17,6 +17,7 @@ The dashboard is intended for operations managers, marketing teams, and data ana
 
 ## Key Features & Insights
 - High-level KPIs: Total Revenue(817.86K), Total Orders(21K),Total Pizza Sold(50k) Average Order Value (38.31),Average Pizza Price (16.49)
+  these cards provide quick overview of business to understand how the business is performing without looking through thousands of transection.
 - Sales by revenue: Large size veggie pizza generates the highest revenue(375.32K) and the average pizza price is (16.49) , xx large size pizza generates the lowest revenue(1.01K) and the average pizza price is (35.95) 
 - Top products: Bestselling pizza is (The Thai Chicken Pizza), and the worst selling pizza is (The Brie Carre Pizza)
 - Busiest Days :  Orders are highest on weekends ( Friday & Saturday)
@@ -32,16 +33,12 @@ The dashboard is intended for operations managers, marketing teams, and data ana
 - 📈 Data Visualization & Business Intelligence
 
 ## Data Source & Schema
-Typical datasets used in the dashboard (adjust based on your actual sources):
+the pizza sales csv dataset used in the dashboard contain these columns:
 
-- orders (order_id, store_id, customer_id, order_date, total_amount, discount_amount, payment_type)
-- order_items (order_item_id, order_id, product_id, quantity, price, item_total)
-- products (product_id, name, category, base_price)
-- stores (store_id, store_name, city, region)
-- customers (customer_id, signup_date, customer_segment)
-- promotions (promo_id, promo_name, start_date, end_date, discount_type)
+- orders (order_id, order_date, order_time)
+- products (product_id, product_name, product_category, product-size,product_quantity, total_price, unit_price)
 
-Data can be read from CSVs, spreadsheets, or a central data warehouse. Keep a date dimension table (date_key, date, year, month, day, weekday) for time intelligence.
+Data can be read from CSVs, spreadsheets
 
 ## Recommended Analyses & Visuals
 - KPI cards for revenue, orders, pizza sold, pizza price
